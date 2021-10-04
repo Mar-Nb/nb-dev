@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Yams",
+    "url": "/projets/yams/projet-yams.html",
+    "desc": "Une implémentation du jeu de plateau **Yams** (ou *Yahtzee*), en langage C."
+  },
+  {
+    "name": "Super Simon",
+    "url": "/projets/super-simon/projet-simon.html",
+    "desc": "Une implémentation du jeu du **Super Simon**, en langage C."
+  },
+  {
+    "name": "Simplix",
+    "url": "/projets/simplix/projet-simplix.html",
+    "desc": "Projet d'interface de calcul sur la notion du simplexe, écrit en Java (des **maths**...)"
+  },
+  {
+    "name": "FoodRating",
+    "url": "/projets/foodrating/projet-foodrating.html",
+    "desc": "Un site web de notation de produits alimentaires, avec le framework Symfony"
+  }
+]

@@ -18,7 +18,7 @@ Ce projet, se basant sur le langage Java, avait deux objectifs :
 
 ### Mais, c'est quoi un simplexe ?
 
-Le simplexe, ou plutôt *l'algorithme du simplexe*, permet de résoudre des problèmes d'optimisation dits "linéaires" (voir [la page Wikipédia de l'algorithme du Simplexe](https://fr.m.wikipedia.org/wiki/Algorithme_du_simplexe)). Cet outil est interface permettant de manipuler un simplexe et de le résoudre. Cet interface se base sur le principe MVC et la bibliothèque graphique de base de Java : `Swing`.
+Le simplexe, ou plutôt *l'algorithme du simplexe*, permet de résoudre des problèmes d'optimisation dits "linéaires" (voir [la page Wikipédia de l'algorithme du Simplexe](https://fr.m.wikipedia.org/wiki/Algorithme_du_simplexe)). Cet outil est une interface permettant de manipuler un simplexe et de le résoudre. Cet interface se base sur le principe MVC et la bibliothèque graphique de base de Java : `Swing`.
 
 Outre l'interface, cet outil propose aussi des fonctionnalités annexes telles qu'un historique des étapes de résolution ou encore un export de ce dernier au format PDF. Il est aussi possible de sauvegarder son simplexe dans un fichier ou d'ouvrir un fichier contenant un simplexe.
 

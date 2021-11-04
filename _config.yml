@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: nb-dev.fr
-subtitle: Un site de dév, un site de geek
-description: Yo, bienvenue sur mon site ! Le but de ce site est de centraliser les différents projets, scolaires et moins scolaires, que j'ai pu effectuer dans ma carrière développeur. J'y mettrai aussi des articles sur ce qui m'intéresse comme les romans que je lis, les jeux auxquels je joue, où encore les mangas / animés que je suis.
-keywords:
-author: NB le dév
+title: Mar-Nb, développeur web (et geek)
+subtitle: Quelques projets, quelques articles
+description: Bienvenue sur mon site de développeur. Sur ce site sont centralisés les différents projets, scolaires et moins scolaires, que j'ai pu effectuer dans ma carrière de développeur. Quelques articles sur d'autres sujets (roman, films, ...) y figureront aussi.
+keywords: [développeur web, geek, Mar-Nb, site, github, article, roman, film, manga, animé]
+author: Mar-Nb
 language: fr
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: http://nb-dev.fr
 permalink: :year/:title/
 permalink_defaults:
 pretty_urls:
@@ -62,7 +62,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 5
   order_by: -date
 
 # Category & Tag
@@ -104,6 +104,3 @@ theme: cactus
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
-
-theme_config:
-  description: "J'ai mis la description dans theme_config"

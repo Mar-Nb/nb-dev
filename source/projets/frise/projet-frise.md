@@ -31,4 +31,4 @@ La partie supérieure de l'interface décrit les événements de la frise, et la
 
 ## Documentation technique du projet
 
-La documentation technique (datant de la réalisation du projet) est disponible [ici](projet-frise/doc-v2-projet-frise.pdf).
+La documentation technique (datant de la réalisation du projet) est disponible <a href="projet-frise/doc-v2-projet-frise.pdf" target="_blank">ici</a>.

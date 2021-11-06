@@ -12,11 +12,11 @@
   {
     "name": "Simplix",
     "url": "/projets/simplix/projet-simplix.html",
-    "desc": "Projet d'interface de calcul sur la notion du simplexe, écrit en Java (des **maths**...)"
+    "desc": "Projet d'interface de calcul sur la notion du simplexe, écrit en Java."
   },
   {
     "name": "FoodRating",
     "url": "/projets/foodrating/projet-foodrating.html",
-    "desc": "Un site web de notation de produits alimentaires, avec le framework Symfony"
+    "desc": "Un site web de notation de produits alimentaires, avec le framework Symfony."
   }
 ]
